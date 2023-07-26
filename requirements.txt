@@ -6,4 +6,6 @@ mediapipe
 # opencv-python
 opencv-python-headless
 streamlit
+streamlit-webcam-example==0.1.0
+
 
