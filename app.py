@@ -15,7 +15,7 @@ st.title("Emotion Detection")
 st.text("select the checkbox to run the app. \n\n")
 run = st.checkbox('Run')
 FRAME_WINDOW = st.image([])
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 mp_drawing = mp.solutions.drawing_utils
 mp_holistic = mp.solutions.holistic
 
