@@ -1,6 +1,7 @@
 numpy
 pandas
-sklearn
+# sklearn
+scikit-learn
 mediapipe
 # opencv-python
 opencv-python-headless
